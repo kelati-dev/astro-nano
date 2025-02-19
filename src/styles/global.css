@@ -44,6 +44,9 @@ article {
   @apply tw-prose-bullets dark:text-white;
 }
 
+article :where(ul>li):not(:where([class~=not-prose],[class~=not-prose] *))::marker {
+  color: text-white;
+}
 @layer utilities {
   article a {
     @apply font-sans text-current underline underline-offset-2;

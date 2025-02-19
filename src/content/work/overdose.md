@@ -1,7 +1,7 @@
 ---
 company: "Overdose Digital"
 role: "Senior Developer"
-dateStart: "11/18/2029"
+dateStart: "11/18/2019"
 dateEnd: "05/29/2024"
 ---
 

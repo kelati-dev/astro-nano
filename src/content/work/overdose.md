@@ -13,4 +13,4 @@ dateEnd: "05/29/2024"
 - Earned Honorable Mention in the 2023 BigCommerce/Stripe Payments Hackathon.  
 - Enhanced website usability and accessibility, aligning with WCAG standards.  
 - Experienced in headless SaaS, PWA development, and system module design.
-- [BigCommerce x Kokatat Case Study] (https://www.bigcommerce.com/case-study/kokatat/)
+- [BigCommerce x Kokatat Case Study](https://www.bigcommerce.com/case-study/kokatat/)

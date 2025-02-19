@@ -3,14 +3,14 @@ import type { Site, Metadata, Socials } from "@types";
 export const SITE: Site = {
   NAME: "Kelati Andemichael",
   EMAIL: "kelati.dev@gmail.com",
-  NUM_POSTS_ON_HOMEPAGE: 0,
+  NUM_POSTS_ON_HOMEPAGE: 1,
   NUM_WORKS_ON_HOMEPAGE: 1,
-  NUM_PROJECTS_ON_HOMEPAGE: 0,
+  NUM_PROJECTS_ON_HOMEPAGE: 1,
 };
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Astro Nano is a minimal and lightweight blog and portfolio.",
+  DESCRIPTION: "Kelati Andemichael is a Web Developer from Seattle, WA.",
 };
 
 export const BLOG: Metadata = {

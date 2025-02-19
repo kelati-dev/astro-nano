@@ -43,9 +43,10 @@ article {
   @apply prose-headings:text-black prose-headings:dark:text-white;
 }
 
-article :where(ul>li):not(:where([class~=not-prose],[class~=not-prose] *))::marker {
-  color: text-white;
-}
+ article.dark > ul > li::marker {
+  color: #fff !important;
+ }
+
 @layer utilities {
   article a {
     @apply font-sans text-current underline underline-offset-2;

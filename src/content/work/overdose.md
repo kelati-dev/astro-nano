@@ -12,4 +12,5 @@ dateEnd: "05/29/2024"
 - Led a team of six developers through organizational shifts, fostering strong team culture.  
 - Earned Honorable Mention in the 2023 BigCommerce/Stripe Payments Hackathon.  
 - Enhanced website usability and accessibility, aligning with WCAG standards.  
-- Experienced in headless SaaS, PWA development, and system module design.  
+- Experienced in headless SaaS, PWA development, and system module design.
+- [BigCommerce x Kokatat Case Study] (https://www.bigcommerce.com/case-study/kokatat/)

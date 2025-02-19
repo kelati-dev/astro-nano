@@ -2,7 +2,7 @@
 company: "IG Design Group Americas, Inc"
 role: "Web Developer"
 dateStart: "12/09/2024"
-dateEnd: ""
+dateEnd: "Present"
 ---
 
 - Led BigCommerce storefront development, customization, and optimization to enhance user experience and sales.  

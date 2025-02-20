@@ -11,7 +11,8 @@ html.dark {
   color-scheme: dark;
 
   ul > li::marker {
-    color: #fff !important;
+    color: #fff;
+    border: 1px #000 solid;
    }
 }
 

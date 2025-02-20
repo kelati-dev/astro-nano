@@ -9,6 +9,10 @@ html {
 
 html.dark {
   color-scheme: dark;
+
+  ul > li::marker {
+    color: #fff !important;
+   }
 }
 
 html,
@@ -42,10 +46,6 @@ article {
   @apply prose-headings:font-semibold prose-p:font-serif;
   @apply prose-headings:text-black prose-headings:dark:text-white;
 }
-
- article.dark > ul > li::marker {
-  color: #fff !important;
- }
 
 @layer utilities {
   article a {

@@ -22,6 +22,10 @@ export const WORK: Metadata = {
   TITLE: "Work",
   DESCRIPTION: "Where I have worked and what I have done.",
 };
+export const PORTFOLIO: Metadata = {
+  TITLE: "Creative Porfolio",
+  DESCRIPTION: "Examples of multimedia work I have produced.",
+};
 
 export const PROJECTS: Metadata = {
   TITLE: "Projects",

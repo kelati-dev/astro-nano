@@ -30,7 +30,7 @@ body {
 
 header {
   @apply fixed top-0 left-0 right-0 z-50 py-5;
-  @apply text-black/75 dark:bg-cyan-900/50;
+  @apply bg-stone-100/75 dark:bg-cyan-900/50;
   @apply backdrop-blur-sm saturate-200;
 }
 

@@ -14,17 +14,13 @@ export const HOME: Metadata = {
 };
 
 export const BLOG: Metadata = {
-  TITLE: "Blog",
-  DESCRIPTION: "A collection of articles on topics I am passionate about.",
+  TITLE: "Creative Porfolio",
+  DESCRIPTION: "Examples of multimedia work I have produced",
 };
 
 export const WORK: Metadata = {
   TITLE: "Work",
   DESCRIPTION: "Where I have worked and what I have done.",
-};
-export const PORTFOLIO: Metadata = {
-  TITLE: "Creative Porfolio",
-  DESCRIPTION: "Examples of multimedia work I have produced.",
 };
 
 export const PROJECTS: Metadata = {

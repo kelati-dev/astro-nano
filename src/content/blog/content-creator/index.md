@@ -25,6 +25,25 @@ Today, my content reaches **10,000+ followers** across platforms and continues t
 
 ---
 
+## 🎥 Example of My Work: Short-Form Community Storytelling
+
+Below is a featured video highlighting the type of community-focused content I create—supporting local businesses, showcasing neighborhood culture, and amplifying stories that make Seattle unique.
+
+```html
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@truecounterfeit/video/7436072008984628510" data-video-id="7436072008984628510" style="max-width: 605px;min-width: 325px;">
+  <section>
+    <a target="_blank" title="@truecounterfeit" href="https://www.tiktok.com/@truecounterfeit?refer=embed">@truecounterfeit</a>
+    Tasty’s has had a total glow-up from dive bar to family-friendly spot! 🌞 I walk by here almost every day with my dog, and it’s always so quiet, so I had to show some love. They’ve kept the same menu but added a few new items, like the Waffle Burger! 👏
+    The vibe is brighter and they still have the bar for those who remember the old days. Definitely worth a visit—let’s support our local gems! 🍗🧇🍔🍳🥞
+    <a title="seattlefood" target="_blank" href="https://www.tiktok.com/tag/seattlefood?refer=embed">#seattlefood</a>
+    <a title="seattleeats" target="_blank" href="https://www.tiktok.com/tag/seattleeats?refer=embed">#seattleeats</a>
+    <a title="seattleplacestoeat" target="_blank" href="https://www.tiktok.com/tag/seattleplacestoeat?refer=embed">#seattleplacestoeat</a>
+    <a title="southparkseattle" target="_blank" href="https://www.tiktok.com/tag/southparkseattle?refer=embed">#southparkseattle</a>
+    <a target="_blank" title="♬ Lofi - Domknowz" href="https://www.tiktok.com/music/Lofi-6799585653702019073?refer=embed">♬ Lofi - Domknowz</a>
+  </section>
+</blockquote>
+<script async src="https://www.tiktok.com/embed.js"></script>
+
 ## 🎥 What I Create: Community-Focused Short-Form Video
 
 My niche is short-form video that’s:

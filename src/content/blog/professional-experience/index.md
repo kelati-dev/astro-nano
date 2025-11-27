@@ -13,23 +13,27 @@ For over a decade, my career has lived at the intersection of **storytelling, te
 
 ## 🎬 Beginnings: Videographer & Video Editor  
 *Freelance • 2011–2017*  
-:contentReference[oaicite:0]{index=0}
 
-My creative foundation began in video — filming, editing, and producing more than 50 educational and promotional pieces. This early work taught me the essentials of pacing, narrative clarity, accessibility, and emotional resonance.
+My creative foundation began in video — filming, editing, and producing. For example, I created more than 50 educational pieces for Science Trak. This early work taught me the essentials of pacing, narrative clarity, accessibility, and emotional resonance.
+
+Click to view:
+[Science Trak](https://www.amazon.com/Science-Trak/dp/B07GX6RN96).
+[IMDB Profile](https://www.amazon.com/Science-Trak/dp/B07GX6RN96).
 
 ---
 
 ## 📰 Growing Into Digital Media: Multimedia Producer  
 *Sinclair Broadcast Group • 2016–2018*  
-:contentReference[oaicite:1]{index=1}
 
-As a multimedia producer, I created visual content for one of the nation’s largest broadcasting groups, developing graphics and digital assets that reached millions across platforms.
+As a multimedia producer, I crafted digital advertising and marketing content—graphic ads, video pieces, and website designs—for a wide range of local businesses.
+
+Click to view:
+[Datasphere business videos](https://www.youtube.com/@DataSphereVideos).
 
 ---
 
 ## 💻 Technical Shift: Support Developer  
 *Sinclair Inc. • 2018–2019*  
-:contentReference[oaicite:2]{index=2}
 
 Transitioning from production into support development expanded my creative toolbox with deep technical skills — managing 200+ news sites, troubleshooting live issues, and building components with HTML, CSS, JavaScript, PHP, and SQL.
 
@@ -41,7 +45,6 @@ Beginning in 2019, my career entered a new phase — moving into professional **
 
 ### **Overdose (2019–2024)**  
 *Web Developer → Development Lead → Development Team Lead*  
-:contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
 
 Across nearly five years at Overdose, I worked on BigCommerce and Shopify Plus storefronts for enterprise clients. I evolved into a technical leader who:
 
@@ -50,15 +53,21 @@ Across nearly five years at Overdose, I worked on BigCommerce and Shopify Plus s
 - Led Agile sprints and cross-functional development teams  
 - Ran technical workshops and built proofs of concept  
 - Mentored developers and served as the primary technical point of contact  
-- Won *Honorable Mention in the 2023 BigCommerce/Stripe Hackathon* for a real-time payments integration  
+
 
 This period strengthened my ability to bridge creative direction with technical execution.
 
+Examples: 
+[Kokatat.com](https://kokatat.com/), [TheoChocolate.com](https://theochocolate.com/), [SOGKnives.com](https://www.sogknives.com/), [Melissa Shoes](https://www.shopmelissa.com/?), [BlueQ.com](https://www.blueq.com/)
+
+
 ### **IG Design Group Americas / Advantus Corp (2024–2025)**  
 *Web Developer*  
-:contentReference[oaicite:5]{index=5}
 
 At IG Design Group, I spearheaded BigCommerce storefront improvements, integrated APIs, and optimized digital experience performance. I partnered closely with product and marketing teams, shaping both user experience and content strategy.
+
+Examples: 
+[Perler.com](https://perler.com/), [Simplicity.com](https://simplicity.com/)
 
 ---
 
@@ -105,4 +114,8 @@ I build not just interfaces — but experiences rooted in clarity, emotion, and 
 
 Whether it’s a video project, a storytelling campaign, or a full-scale digital platform, I’m passionate about work that connects people through creativity and technology.
 
-If you'd like this turned into a **full webpage**, **designer-friendly layout**, or **SEO-optimized portfolio section**, just let me know!
+Let’s tell stories that matter.  
+Let’s uplift our communities.  
+Let’s make Seattle easier to discover.
+
+**📩 Contact:** truecounterfeit@gmail.com  

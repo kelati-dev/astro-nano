@@ -29,6 +29,7 @@ Today, my content reaches **10,000+ followers** across platforms and continues t
 
 Below is a featured video highlighting the type of community-focused content I create—supporting local businesses, showcasing neighborhood culture, and amplifying stories that make Seattle unique.
 
+Click to play video:
 [Local Business Spotlight](https://www.tiktok.com/@truecounterfeit/video/7436072008984628510).
 [Seattle events weekend roundup](https://www.tiktok.com/@truecounterfeit/video/7568905036466556215).
 

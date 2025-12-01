@@ -29,7 +29,7 @@ My creative foundation began in video — filming, editing, and producing. For e
 
 As a multimedia producer, I crafted digital advertising and marketing content—graphic ads, video pieces, and website designs—for a wide range of local businesses.
 
-Buffalo Pizza &amp; Ale House: 
+Buffalo Pizza & Ale House: 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/wpfTMB20uc8?si=f0wfyI3NgQOiAq2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Blue Rain Millennium:
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gybr2lrYAHA?si=zcKtoPr5rkFQv893" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -40,6 +40,14 @@ Blue Rain Millennium:
 *Sinclair Inc. • 2018–2019*  
 
 Transitioning from multimedia into support development expanded my creative toolbox with deep technical skills — managing 200+ news sites, troubleshooting live issues, and building components with HTML, CSS, JavaScript, PHP, and SQL.
+
+#### Example: [KOMO News — Local news, weather and sports](https://komonews.com/)
+
+<a href="https://komonews.com/" target="_blank" rel="noopener noreferrer">
+
+![KOMO News — Desktop screenshot](/images/komo-screenshot-desktop.png)
+</a>
+
 
 ---
 

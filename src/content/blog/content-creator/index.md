@@ -49,7 +49,7 @@ Whether I’m highlighting a **neighborhood festival**, a **youth arts program**
 
 ## 💡 My Creative Approach
 
-### ### 1. **Storytelling with Purpose**
+### 1. **Storytelling with Purpose**
 I focus on transforming everyday moments into relatable stories. I want people to say,  
 > “I didn’t know this was happening—thank you for sharing.”
 

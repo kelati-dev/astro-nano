@@ -57,8 +57,6 @@ Across nearly five years at Overdose, I worked on BigCommerce and Shopify Plus s
 
 This period strengthened my ability to bridge creative direction with technical execution.
 
-
-
 Examples: 
 [Kokatat.com](https://kokatat.com/), [TheoChocolate.com](https://theochocolate.com/), [SOGKnives.com](https://www.sogknives.com/), [Melissa Shoes](https://www.shopmelissa.com/?), [BlueQ.com](https://www.blueq.com/)
 

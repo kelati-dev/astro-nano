@@ -16,9 +16,11 @@ For over a decade, my career has lived at the intersection of **storytelling, te
 
 My creative foundation began in video — filming, editing, and producing. For example, I created more than 50 educational pieces for Science Trak. This early work taught me the essentials of pacing, narrative clarity, accessibility, and emotional resonance.
 
-Click to view:
-[Science Trak](https://www.amazon.com/Science-Trak/dp/B07GX6RN96).
-[IMDB Profile](https://www.amazon.com/Science-Trak/dp/B07GX6RN96).
+[Click to view: Science Trak Amazon Prime Video](https://www.amazon.com/gp/video/detail/B07GX6RN96/ref=atv_dp_share_cu_r)
+
+[Click to view: my IMDB Profile](https://www.imdb.com/name/nm8133224/).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-4tdbko0WY?si=C6jHuLbVw6bB_YbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNmx9VdTdPE?si=fwP_YdsKU_E2t3Vr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -27,15 +29,17 @@ Click to view:
 
 As a multimedia producer, I crafted digital advertising and marketing content—graphic ads, video pieces, and website designs—for a wide range of local businesses.
 
-Click to view:
-[Datasphere business videos](https://www.youtube.com/@DataSphereVideos).
+Buffalo Pizza &amp; Ale House: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wpfTMB20uc8?si=f0wfyI3NgQOiAq2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Blue Rain Millennium:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gybr2lrYAHA?si=zcKtoPr5rkFQv893" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## 💻 Technical Shift: Support Developer  
 *Sinclair Inc. • 2018–2019*  
 
-Transitioning from production into support development expanded my creative toolbox with deep technical skills — managing 200+ news sites, troubleshooting live issues, and building components with HTML, CSS, JavaScript, PHP, and SQL.
+Transitioning from multimedia into support development expanded my creative toolbox with deep technical skills — managing 200+ news sites, troubleshooting live issues, and building components with HTML, CSS, JavaScript, PHP, and SQL.
 
 ---
 
@@ -43,35 +47,29 @@ Transitioning from production into support development expanded my creative tool
 
 Beginning in 2019, my career entered a new phase — moving into professional **front-end and e-commerce development** while maintaining my creative identity as a storyteller. This blended background allowed me to become a hybrid creator–developer with a strong command of UX, content, and technical implementation.
 
-### **Overdose (2019–2024)**  
-*Web Developer → Development Lead → Development Team Lead*  
 
-Across nearly five years at Overdose, I worked on BigCommerce and Shopify Plus storefronts for enterprise clients. I evolved into a technical leader who:
+#### [Kokatat.com](https://kokatat.com/), BigCommerce
 
-- Built custom UI components and accessible front-end experiences  
-- Consulted on headless builds, platform extensibility, and omnichannel strategy  
-- Led Agile sprints and cross-functional development teams  
-- Ran technical workshops and built proofs of concept  
-- Mentored developers and served as the primary technical point of contact  
+<a href="https://kokatat.com/" target="_blank" rel="noopener noreferrer">
+
+![Kokatat.com — Desktop screenshot](/images/kokatat-screenshot-desktop.png)
+</a>
+
+#### [BlueQ.com](https://blueq.com/), Shopify Plus
+
+<a href="https://blueq.com/" target="_blank" rel="noopener noreferrer">
+
+![BlueQ.com — Desktop screenshot](/images/blueq-screenshot-desktop.png)
+</a>
+
+####  [Simplicity.com](https://simplicity.com/), BigCommerce
+
+<a href="https://simplicity.com/" target="_blank" rel="noopener noreferrer">
+
+![Simplicity.com — Desktop screenshot](/images/simplicity-screenshot-desktop.png)
+</a>
 
 
-This period strengthened my ability to bridge creative direction with technical execution.
-
-
-
-Examples: 
-[Kokatat.com](https://kokatat.com/), [TheoChocolate.com](https://theochocolate.com/), [SOGKnives.com](https://www.sogknives.com/), [Melissa Shoes](https://www.shopmelissa.com/?), [BlueQ.com](https://www.blueq.com/)
-
-
-### **IG Design Group Americas / Advantus Corp (2024–2025)**  
-*Web Developer*  
-
-At IG Design Group, I spearheaded BigCommerce storefront improvements, integrated APIs, and optimized digital experience performance. I partnered closely with product and marketing teams, shaping both user experience and content strategy.
-
-Examples: 
-[Perler.com](https://perler.com/), [Simplicity.com](https://simplicity.com/)
-
----
 
 ## 🎨 A Hybrid Creative Skill Set
 

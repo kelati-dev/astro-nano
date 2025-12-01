@@ -14,7 +14,7 @@ Across nearly five years at Overdose, I worked on BigCommerce and Shopify Plus s
 - Mentored developers and served as the primary technical point of contact  
 - [BigCommerce x Kokatat Case Study](https://www.bigcommerce.com/case-study/kokatat/)
 #### Watch BigCommerce Interview on YouTube, skip to 0:43
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHyE2Ua8H4s?si=yIQAUgMCbTQ-GffL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/fHyE2Ua8H4s?si=yIQAUgMCbTQ-GffL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Examples: 
 [Kokatat.com](https://kokatat.com/), [TheoChocolate.com](https://theochocolate.com/), [SOGKnives.com](https://www.sogknives.com/), [Melissa Shoes](https://www.shopmelissa.com/?), [BlueQ.com](https://www.blueq.com/)

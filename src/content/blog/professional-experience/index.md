@@ -19,8 +19,8 @@ My creative foundation began in video — filming, editing, and producing. For e
 [Click to view: Science Trak Amazon Prime Video](https://www.amazon.com/gp/video/detail/B07GX6RN96/ref=atv_dp_share_cu_r)
 
 [Click to view: my IMDB Profile](https://www.imdb.com/name/nm8133224/).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-4tdbko0WY?si=C6jHuLbVw6bB_YbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hNmx9VdTdPE?si=fwP_YdsKU_E2t3Vr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y-4tdbko0WY?si=C6jHuLbVw6bB_YbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/hNmx9VdTdPE?si=fwP_YdsKU_E2t3Vr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -30,9 +30,9 @@ My creative foundation began in video — filming, editing, and producing. For e
 As a multimedia producer, I crafted digital advertising and marketing content—graphic ads, video pieces, and website designs—for a wide range of local businesses.
 
 Buffalo Pizza &amp; Ale House: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wpfTMB20uc8?si=f0wfyI3NgQOiAq2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wpfTMB20uc8?si=f0wfyI3NgQOiAq2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Blue Rain Millennium:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gybr2lrYAHA?si=zcKtoPr5rkFQv893" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gybr2lrYAHA?si=zcKtoPr5rkFQv893" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
